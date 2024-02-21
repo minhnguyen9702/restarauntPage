@@ -1,3 +1,4 @@
+import './style.css'
 import {clearContent, loadHomepage, loadMenu} from './pageLoader';
 
 window.onload = function() {
